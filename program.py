@@ -1,12 +1,3 @@
-"""
-	Faculdade: IPESU/FAREC
-	Curso: Bacharelado em Ciência da Computação
-	Disciplina: Paradigmas de Linguagens
-	Professor: Tennyson Accetti Resende Filho	
-	Período/Turno: 2º e 3º/Noite
-	Grupo: Arthur Yure dos Santos, Josuel Soares da Silva e Matheus Johann Araújo	
-"""
-
 print("\n SELECIONE O SGBD")
 print("\n> Digite 1 para usar o SQLite")
 print("\n> Digite 2 para usar o MySQL")

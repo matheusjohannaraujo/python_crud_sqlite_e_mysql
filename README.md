@@ -6,3 +6,5 @@ Disciplina: Paradigmas de Linguagens
 Professor: Tennyson Accetti Resende Filho	
 Período/Turno: 2º e 3º/Noite
 Grupo: Arthur Yure dos Santos, Josuel Soares da Silva e Matheus Johann Araújo
+
+Código feito em Python, CRUD (Create, Read, Update e Delete) em bancos de dados.
